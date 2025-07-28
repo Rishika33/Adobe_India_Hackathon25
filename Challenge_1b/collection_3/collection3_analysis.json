@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-28T17:34:28.235192"
+    },
+    "extracted_sections": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 1,
+            "page_number": 1
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 2,
+            "page_number": 6
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 3,
+            "page_number": 11
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 4,
+            "page_number": 12
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 5,
+            "page_number": 13
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Instructions:: • In a bowl, whisk together eggs, milk, salt, and pepper. • Heat a non-stick skillet over medium heat and melt the butter. • Pour the egg mixture into the skillet. • Cook, stirring gently, until the eggs are set but still soft. • Serve immediately.",
+            "page_number": 1
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Instructions:: • Preheat oven to 350°F (175°C). • In a bowl, mix oats, honey or maple syrup, peanut butter, nuts, dried fruit, and vanilla extract. • Press the mixture into a greased baking dish. • Bake for 20-25 minutes or until golden brown. • Let cool before cutting into bars.",
+            "page_number": 6
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Instructions:: • Spread peanut butter on one side of each apple ring. • Add optional toppings if desired. • Sandwich two apple rings together with the peanut butter sides facing in.",
+            "page_number": 11
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Instructions:: • In a bowl, combine cottage cheese and fresh berries. • Drizzle with honey. • Serve immediately.",
+            "page_number": 12
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Instructions:: • In a bowl, combine Greek yogurt and honey. • Top with mixed nuts. • Serve immediately.",
+            "page_number": 13
+        }
+    ]
+}
